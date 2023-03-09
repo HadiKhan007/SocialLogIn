@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242699434873",
+    "project_id": "finalsignin-3c5c5",
+    "storage_bucket": "finalsignin-3c5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242699434873:android:a05da539f2c7a6bb094da8",
+        "android_client_info": {
+          "package_name": "com.finalgooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242699434873-csmahcjt6g5pteubphj15vinnigmdhq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalgooglelogin",
+            "certificate_hash": "ab44c5df3c7e3b6060ad21cb3a63edf10d538367"
+          }
+        },
+        {
+          "client_id": "242699434873-iejt9ouddeh3g5j9k7hnld8v4b396da0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc60fr7I1nBy1fyU-7XnOYauNAY4ROQuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242699434873-8jeqf1gar490ie57re47d0nfm6trhvrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
