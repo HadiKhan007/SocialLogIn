@@ -1,14 +1,13 @@
 import React, {useEffect} from 'react';
-import FbLogIn from './src/FbLogIn';
 import {Settings} from 'react-native-fbsdk-next';
+import InstaLogIn from './src/InstaLogIn';
 
 const App = () => {
-  useEffect(() => {
-    Settings.initializeSDK();
-    Settings.setAppID('1656142984820808');
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
-  return <FbLogIn />;
+  // useEffect(() => {
+  //   Settings.initializeSDK();
+  //   Settings.setAppID('1656142984820808');
+  // }, []);
+  return <InstaLogIn />;
 };
 
 export default App;

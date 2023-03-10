@@ -15,7 +15,10 @@
     "@react-native-google-signin/google-signin": "^9.0.2",
     "react": "18.2.0",
     "react-native": "0.71.4",
-    "react-native-fbsdk-next": "^11.1.0"
+    "react-native-fbsdk-next": "^11.1.0",
+    "react-native-gradle-plugin": "^0.71.16",
+    "react-native-instagram-login": "^2.0.5",
+    "react-native-webview": "^11.26.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
